@@ -12,10 +12,14 @@ feature1()
 }
 Initial Security()
 {
- //Sample Code
->>>>>>> master
+}
+Initial Security(){
+
 }
 
-
+feature2(){
+ //Sample Code for feature2
+ //
+ //|}
 
 }
